@@ -52,7 +52,7 @@ echo "*****************************************"
 echo " 5. Download init Script"
 echo "*****************************************"
 
-sudo wget https://raw.github.com/saxenap/install-redis-amazon-linux-centos/master/redis-server
+sudo wget https://raw.github.com/kewlcherry/install-redis-amazon-linux-centos/master/redis-server
 
 echo "*****************************************"
 echo " 6. Move and Configure Redis-Server"
